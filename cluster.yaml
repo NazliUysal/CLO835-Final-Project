@@ -10,7 +10,7 @@ metadata:
 availabilityZones: ["us-east-1a", "us-east-1b"] 
 
 iam:
-  serviceRoleARN: arn:aws:iam::058264412508:role/LabRole
+  serviceRoleARN: arn:aws:iam::851725335686:role/LabRole
 
 # Define the managed node groups (Worker Nodes)
 managedNodeGroups:
@@ -25,4 +25,4 @@ managedNodeGroups:
     allow: true
   
   iam:
-    instanceRoleARN: arn:aws:iam::058264412508:role/LabRole
+    instanceRoleARN: arn:aws:iam::851725335686:role/LabRole
