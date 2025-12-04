@@ -26,3 +26,5 @@ managedNodeGroups:
   
   iam:
     instanceRoleARN: arn:aws:iam::851725335686:role/LabRole
+  
+  #comment
