@@ -4,7 +4,8 @@ kind: ClusterConfig
 metadata:
   name: clo835-project-cluster  # Project required cluster name
   region: "us-east-1"
-  version: "1.33"            
+  version: "1.33"  
+  #comment
 
 # Define the availability zones explicitly to avoid potential VPC issues
 availabilityZones: ["us-east-1a", "us-east-1b"] 
