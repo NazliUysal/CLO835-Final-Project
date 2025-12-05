@@ -6,6 +6,7 @@ metadata:
   region: "us-east-1"
   version: "1.33"  
   #comment
+  #comment2
 
 # Define the availability zones explicitly to avoid potential VPC issues
 availabilityZones: ["us-east-1a", "us-east-1b"] 
